@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — That is a top secret ;)<br>👯 I'm looking to collaborate on — anything AI, cybersecurity, or building products people actually use<br>🤝 I'm looking for help with — making ML models harder to fool (at least trying to do it)<br>🌱 I'm currently learning — how to break AI systems before the bad guys do<br>💬 Ask me about — malware detection, building from zero to production, or why I turned network traffic into images to catch hackers<br>⚡ Fun fact — I never thought that I would have a Readme for my Github profile, but here we are
+🔭 I'm currently working on — That is a top secret ;)<br>👯 I'm looking to collaborate on — anything AI, cybersecurity, or building products people actually use<br>🤝 I'm looking for help with — making ML models harder to fool (at least trying to do it)<br>🌱 I'm currently learning — how to break AI systems before the bad guys do<br>💬 Ask me about — Anything which is not super nerd level stuff<br>⚡ Fun fact — I never thought that I would have a Readme for my Github profile, but here we are
 
 
 # 💻 Tech Stack:
